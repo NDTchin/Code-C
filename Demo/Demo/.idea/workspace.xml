@@ -10,17 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267c6cf7-1953-46b0-9b7e-bab1094340f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo 2/Bai2150923.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/Bai3150923.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/Bai4150923.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/Vidu1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/Vidu2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/Vidu3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 2/bai150923.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo 1/.idea/Demo 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo 1/main.c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 3/d2_odd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 3/toantu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 3/toantu2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo4/cc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +61,7 @@
       <recent name="C:\Users\Acer\Documents\GitHub\Code-C\Demo\Demo\Demo 1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Vidu3.c">
+  <component name="RunManager" selected="C/C++ File.toantu2.c">
     <configuration name="Vidu3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Vidu3.c" CONFIG_NAME="Vidu3.c">
       <option name="sourceFile" value="Demo 2\Vidu3.c" />
       <method v="2">
@@ -76,6 +70,12 @@
     </configuration>
     <configuration name="bai150923.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="bai150923.c" CONFIG_NAME="bai150923.c">
       <option name="sourceFile" value="Demo 2\bai150923.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d2_odd.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="d2_odd.c" CONFIG_NAME="d2_odd.c">
+      <option name="sourceFile" value="Demo 3\d2_odd.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -92,8 +92,16 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="toantu2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="toantu2.c" CONFIG_NAME="toantu2.c">
+      <option name="sourceFile" value="Demo 3\toantu2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.toantu2.c" />
+        <item itemvalue="C/C++ File.d2_odd.c" />
         <item itemvalue="C/C++ File.Vidu3.c" />
         <item itemvalue="C/C++ File.bai150923.c" />
         <item itemvalue="C/C++ File.main.c (1)" />
@@ -114,7 +122,9 @@
       <workItem from="1694437396683" duration="31000" />
       <workItem from="1694437486117" duration="1950000" />
       <workItem from="1694777007688" duration="5905000" />
-      <workItem from="1694784812386" duration="1330000" />
+      <workItem from="1694784812386" duration="3028000" />
+      <workItem from="1695014495958" duration="1486000" />
+      <workItem from="1695207650054" duration="4450000" />
     </task>
     <servers />
   </component>
