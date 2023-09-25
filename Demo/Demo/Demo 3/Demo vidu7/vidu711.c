@@ -2,8 +2,8 @@
 // Created by Acer on 22/09/2023.
 //
 #include<stdio.h>
-//int vidu711{
- int main(){
+int vidu711(){
+//int main(){
     int basic;
     printf("\nPlease enter your basic:");
     scanf("%d", &basic);

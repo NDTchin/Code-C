@@ -2,7 +2,8 @@
 // Created by Acer on 22/09/2023.
 //
 #include<stdio.h>
-#include<conio.h> int vidu81(){
+#include<conio.h>
+int vidu81
 //int main(){
     int Num1,Num2;
     Num1=540;

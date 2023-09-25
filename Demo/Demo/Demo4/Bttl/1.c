@@ -2,8 +2,8 @@
 // Created by Acer on 24/09/2023.
 //
 #include<stdio.h>
-//int 1(){
-int main(){
+int 1(){
+//int main(){
     float M1,M2,M3;
     //Nhap vao diem cua 3 mon hoc
     do {

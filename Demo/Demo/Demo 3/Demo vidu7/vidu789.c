@@ -2,8 +2,8 @@
 // Created by Acer on 20/09/2023.
 //
 #include<stdio.h>
-//int vidu89(){
- int main() {
+int vidu89(){
+ //int main() {
     int productcode;
     float orderamount, rate = 0.0;
     printf("\nPlease enter the product code:");

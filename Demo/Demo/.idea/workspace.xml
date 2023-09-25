@@ -10,11 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267c6cf7-1953-46b0-9b7e-bab1094340f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo 3/d2_odd.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 3/toantu.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 3/toantu2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo4/cc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 5/BTTH/BMI.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 5/DemoVidu10/Vidu1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 5/DemoVidu10/Vidu103.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 5/DemoVidu10/Vidu2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo 5/Viduvuivui.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo 3/Demo vidu7/vidu711.c" beforeDir="false" afterPath="$PROJECT_DIR$/Demo 3/Demo vidu7/vidu711.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo 3/Demo vidu7/vidu789.c" beforeDir="false" afterPath="$PROJECT_DIR$/Demo 3/Demo vidu7/vidu789.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo 3/toantu.c" beforeDir="false" afterPath="$PROJECT_DIR$/Demo 3/toantu.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo4/Bttl/1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Demo4/Bttl/1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo4/DemoVidu8/Vidu82.c" beforeDir="false" afterPath="$PROJECT_DIR$/Demo4/DemoVidu8/Vidu82.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2_odd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toantu2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vidu710.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vidu711.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +36,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -58,30 +71,37 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\GitHub\Code-C\Demo\Demo\Demo4\DemoVidu8" />
       <recent name="C:\Users\Acer\Documents\GitHub\Code-C\Demo\Demo\Demo 1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.toantu2.c">
-    <configuration name="Vidu3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Vidu3.c" CONFIG_NAME="Vidu3.c">
-      <option name="sourceFile" value="Demo 2\Vidu3.c" />
+  <component name="RunManager" selected="C/C++ File.Viduvuivui.c">
+    <configuration name="BMI.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="BMI.c" CONFIG_NAME="BMI.c">
+      <option name="sourceFile" value="Demo 5\BTTH\BMI.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bai150923.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="bai150923.c" CONFIG_NAME="bai150923.c">
-      <option name="sourceFile" value="Demo 2\bai150923.c" />
+    <configuration name="Vidu103.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Vidu103.c" CONFIG_NAME="Vidu103.c">
+      <option name="sourceFile" value="Demo 5\DemoVidu10\Vidu103.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="d2_odd.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="d2_odd.c" CONFIG_NAME="d2_odd.c">
-      <option name="sourceFile" value="Demo 3\d2_odd.c" />
+    <configuration name="Vidu1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Vidu1.c" CONFIG_NAME="Vidu1.c">
+      <option name="sourceFile" value="Demo 5\DemoVidu10\Vidu1.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="main.c">
-      <option name="sourceFile" value="Demo 1\main.c" />
+    <configuration name="Vidu2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Vidu2.c" CONFIG_NAME="Vidu2.c">
+      <option name="sourceFile" value="Demo 5\DemoVidu10\Vidu2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Viduvuivui.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="Viduvuivui.c" CONFIG_NAME="Viduvuivui.c">
+      <option name="sourceFile" value="Demo 5\Viduvuivui.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -92,19 +112,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="toantu2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Demo" TARGET_NAME="toantu2.c" CONFIG_NAME="toantu2.c">
-      <option name="sourceFile" value="Demo 3\toantu2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.toantu2.c" />
-        <item itemvalue="C/C++ File.d2_odd.c" />
-        <item itemvalue="C/C++ File.Vidu3.c" />
-        <item itemvalue="C/C++ File.bai150923.c" />
-        <item itemvalue="C/C++ File.main.c (1)" />
+        <item itemvalue="C/C++ File.Viduvuivui.c" />
+        <item itemvalue="C/C++ File.Vidu103.c" />
+        <item itemvalue="C/C++ File.Vidu2.c" />
+        <item itemvalue="C/C++ File.Vidu1.c" />
+        <item itemvalue="C/C++ File.BMI.c" />
       </list>
     </recent_temporary>
   </component>
@@ -124,11 +138,37 @@
       <workItem from="1694777007688" duration="5905000" />
       <workItem from="1694784812386" duration="3028000" />
       <workItem from="1695014495958" duration="1486000" />
-      <workItem from="1695207650054" duration="4450000" />
+      <workItem from="1695207650054" duration="11027000" />
+      <workItem from="1695315430887" duration="1825000" />
+      <workItem from="1695368300916" duration="11828000" />
+      <workItem from="1695559746907" duration="8013000" />
+      <workItem from="1695618451313" duration="1558000" />
+      <workItem from="1695639083249" duration="7360000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Demo 3/Demo vidu7/vidu710.c</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Demo4/DemoVidu8/Vidu83.c</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Demo 5/BTTH/BMI.c</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
